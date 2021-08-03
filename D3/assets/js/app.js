@@ -1,4 +1,4 @@
-// This is correct one
+
 var svgWidth = 960;
 var svgHeight = 500;
 
